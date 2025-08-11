@@ -6,7 +6,9 @@
       "Bash(git tag:*)",
       "Bash(git push:*)",
       "Bash(gh release:*)",
-      "Bash(gh run list:*)"
+      "Bash(gh run list:*)",
+      "Bash(curl:*)",
+      "Bash(rm:*)"
     ],
     "deny": []
   }
