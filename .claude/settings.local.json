@@ -53,7 +53,17 @@
       "mcp__ide__executeCode",
       "Bash(C:UsersJosephGettingsBLU_Classicgit_commit.bat)",
       "Bash(find:*)",
-      "Bash(gh workflow view:*)"
+      "Bash(gh workflow view:*)",
+      "Bash(git -C /c/Users/JosephGettings/Remove_Nameplate_Debuffs status)",
+      "Bash(git -C /c/Users/JosephGettings/Remove_Nameplate_Debuffs add -A)",
+      "Bash(git -C /c/Users/JosephGettings/Remove_Nameplate_Debuffs commit -m \"chore(release): v3.0.1 - Discord notifications and workflow improvements\n\n- Added: Discord webhook notifications with RGX Mods standard format\n- Fixed: GitHub Actions workflow permissions for releases  \n- Added: Support for all WoW versions\n\nCo-Authored-By: Claude <noreply@anthropic.com>\")",
+      "Bash(git -C /c/Users/JosephGettings/Remove_Nameplate_Debuffs tag -a v3.0.1 -m \"Release v3.0.1 - Discord notifications\")",
+      "Bash(git -C /c/Users/JosephGettings/Remove_Nameplate_Debuffs push origin main)",
+      "Bash(git -C /c/Users/JosephGettings/Remove_Nameplate_Debuffs push origin v3.0.1)",
+      "Bash(git -C /c/Users/JosephGettings/Remove_Nameplate_Debuffs commit -m \"fix: Version extraction in Discord notifications\")",
+      "Bash(git -C /c/Users/JosephGettings/Remove_Nameplate_Debuffs push)",
+      "Bash(git -C /c/Users/JosephGettings/Remove_Nameplate_Debuffs tag -a v3.0.2 -m \"Release v3.0.2 - Discord notifications\")",
+      "Bash(git -C /c/Users/JosephGettings/Remove_Nameplate_Debuffs push origin v3.0.2)"
     ],
     "deny": []
   }
