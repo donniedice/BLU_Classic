@@ -63,7 +63,8 @@
       "Bash(git -C /c/Users/JosephGettings/Remove_Nameplate_Debuffs commit -m \"fix: Version extraction in Discord notifications\")",
       "Bash(git -C /c/Users/JosephGettings/Remove_Nameplate_Debuffs push)",
       "Bash(git -C /c/Users/JosephGettings/Remove_Nameplate_Debuffs tag -a v3.0.2 -m \"Release v3.0.2 - Discord notifications\")",
-      "Bash(git -C /c/Users/JosephGettings/Remove_Nameplate_Debuffs push origin v3.0.2)"
+      "Bash(git -C /c/Users/JosephGettings/Remove_Nameplate_Debuffs push origin v3.0.2)",
+      "Bash(grep:*)"
     ],
     "deny": []
   }
