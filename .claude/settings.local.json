@@ -51,7 +51,8 @@
       "Bash(cmd:*)",
       "Bash(/bashes)",
       "mcp__ide__executeCode",
-      "Bash(C:UsersJosephGettingsBLU_Classicgit_commit.bat)"
+      "Bash(C:UsersJosephGettingsBLU_Classicgit_commit.bat)",
+      "Bash(find:*)"
     ],
     "deny": []
   }
