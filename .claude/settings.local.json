@@ -52,7 +52,8 @@
       "Bash(/bashes)",
       "mcp__ide__executeCode",
       "Bash(C:UsersJosephGettingsBLU_Classicgit_commit.bat)",
-      "Bash(find:*)"
+      "Bash(find:*)",
+      "Bash(gh workflow view:*)"
     ],
     "deny": []
   }
