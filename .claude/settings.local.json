@@ -16,7 +16,9 @@
       "Bash(gh secret:*)",
       "Bash(gh repo list:*)",
       "Bash(gh api:*)",
-      "Bash(gh repo view:*)"
+      "Bash(gh repo view:*)",
+      "Bash(powershell:*)",
+      "Bash(set)"
     ],
     "deny": []
   }
