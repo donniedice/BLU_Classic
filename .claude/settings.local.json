@@ -8,7 +8,15 @@
       "Bash(gh release:*)",
       "Bash(gh run list:*)",
       "Bash(curl:*)",
-      "Bash(rm:*)"
+      "Bash(rm:*)",
+      "Bash(git mv:*)",
+      "Bash(mv:*)",
+      "WebFetch(domain:wowpedia.fandom.com)",
+      "Bash(gh run view:*)",
+      "Bash(gh secret:*)",
+      "Bash(gh repo list:*)",
+      "Bash(gh api:*)",
+      "Bash(gh repo view:*)"
     ],
     "deny": []
   }
